@@ -1,0 +1,13 @@
+name: gun_violence_united_states
+title: gun_violence_united_states
+username:
+account: vivian-hua
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 604509
+bundleId: 1741572
+url: https://vivian-hua.shinyapps.io/gun_violence_united_states/
+when: 1543989605.29323
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history

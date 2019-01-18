@@ -1,0 +1,6 @@
+---
+title: "Political Affiliaiton by Region"
+date: "12/5/2018"
+---
+
+Here is a breakdown of the the **United States regions' political party leanings**. Hover over to see the number of states in the region affiliated with each party. Neutral is defined as states that have not had a reliable political majority for either party over the past 10 years, according to [The Intelligencer](http://nymag.com/intelligencer/2018/11/maybe-its-time-for-america-to-split-up.html). 

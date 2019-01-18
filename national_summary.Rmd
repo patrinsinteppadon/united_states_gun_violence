@@ -1,0 +1,10 @@
+---
+title: "National Summary"
+date: "12/5/2018"
+---
+
+## National Summary
+
+This visualization shows a report for each **incident of gun violence that occured in the selected year**. The color scale of the map shows the concentration of incidents that occur, darker areas have more heavily concentrated incidents of gun violence. Hover over the map to view the exact location, the number of people killed, and the number of people injured.
+
+An initial view of the map shows the majority of gun violence concentrated on both coasts and the south. A more detailed report on the concentration of gun violence can be viewed under the _State and Population Proportion_ tab. 

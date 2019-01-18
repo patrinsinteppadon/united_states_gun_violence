@@ -1,0 +1,13 @@
+---
+title: "Population Relativity"
+date: "12/5/2018"
+---
+
+## Population Relativity
+
+We anticipated that gun violence would be most heavily concentrated in states with large urban areas. **The top map shows raw data on gun violence instances annually**. States with large populations like California, Texas, Illinois, and Florida also show the highest number of gun violence related instances in the form of suicide, interpersonal violence, and other crimes. Hover over the map to see the number of instances occurring annually and the political affiliation of that state.  
+
+We were curious to find where the highest rates of gun violence were occurring and if the raw numbers and rates were comparable. **The second chart, we visualized the rates of gun violence per 100,000 people** using population data of the year in question. Here we see a more nuanced  visualization of where the most gun violence occurs in the United States. This visualization shows thats states like California and Texas have relatively low rates of gun violence despite the large raw number on instances. 
+
+Across all years and especially in 2017 we see the highest rates of gun violence in the southern United States, namely in Louisiana and South Carolina. A few states showed suprisingly high rates of gun violence that we did not anticipate. We were suprised by Delware's high rate of gun violence. Upon further research we found that Wilmington, Delaware, a city of only 72,000, has the [highest rate of teen gun violence in the United States,](https://www.usatoday.com/story/news/2017/09/08/wilmington-delaware-leads-u-s-teen-shootings/619458001/) much of which is contributed to gang violence. Based on our calculations, Alaska has the highest rate of gun violence by population in the nation in 2015, 2016 and 2017. Alaska's high rate of gun violence is largely attributed to the states [high suicide and gun ownership rate](https://www.adn.com/features/health/article/alaskas-gun-death-epidemic/2016/03/11/).
+

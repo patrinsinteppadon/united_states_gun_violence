@@ -1,0 +1,24 @@
+---
+title: "Project Documentation"
+date: "12/5/2018"
+---
+
+
+## Project Purpose
+Our target audience for this project is American voters. By visualizing where gun violence is most prevelant and displaying the political party that is affiliated with the region we are hoping to encourgage voters to elect government officals that will enact more restrictive gun laws. We chose the years surrounding the 2016 election as it was a divisive time and we were curious if the rates of gun violence reflect this.
+
+## Data Sources
+To create this app we used a Kaggle .csv file on gun violence in the United States from 2014 to 2017. The data can be viewed [here.](https://www.kaggle.com/jameslko/gun-violence-data) This data frame contained gun violence incident information of over 220,000 cases. In order to increase app functionality and display the more recent and relevant data we chose to exclude 2013. 
+In the dataset, we chose to look at the variables dates, states, the number of people killed, the number of people injured, latitude and longitude of incidents.
+
+To track population proportion of gun violence from 2014 to 2017, we used a .csv file from the United States Census Bureau, this data set can be viewed [here.](https://www2.census.gov/programs-surveys/popest/datasets/2010-2017/counties/totals/)
+In the dataset, we chose to look at the variables states and years from 2014 to 2017.
+
+We tracked political afffiliation in each state using the party affiliation reported in this [magazine article](http://nymag.com/intelligencer/2018/11/maybe-its-time-for-america-to-split-up.html) from the New York Magazine Intelligencer. Leaving some states marked as Neutral has allowed us to denote the states that have been historically "purple" and possibly swung in the years between 2014 and 2017. 
+
+## Technical Description
+To create our visualizations and reform the data sets we used the libraries [dplyr](https://dplyr.tidyverse.org/), [shiny](http://shiny.rstudio.com/) and [plotly](https://plot.ly/r/).
+
+Shiny Application created by: Vivian Hua, Patrin Sinteppadon, Max Bryla and Maddy VanSpeybroeck 
+
+

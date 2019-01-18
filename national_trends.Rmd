@@ -1,0 +1,24 @@
+---
+title: "National Trends"
+author: "Maddy VanSpeybroeck"
+date: "12/5/2018"
+---
+
+### National Trends
+
+We were curious to see how the rates of gun violence have increased by region given that rates of gun violence differ by region. The following states are included in each region:
+
+**Northeast:** Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont
+
+**South:** Alabama, Arkansas, Delaware, District of Columbia,  Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia
+
+**North Central:** Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin 
+
+**West:** Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming
+
+From 2014 to 2017, the West and Northeast regions have relatively similar incidences of gun violence. The North Central region have higher incidences of gun violence and the South region have the highest incidences of gun violence. 
+
+All regions of the United States have seen an increase in gun violence between the years 2014 and 2017. The Northeast and West regions both show a subtle increase in their annual rates of gun violence, while the South and North Central regions have increased more dramatically.
+
+Our intention for creating this chart was to track changes in the rate of gun violence in the years surrounding the 2016 election. This visualization shows the most dramtic increase in gun violence between 2015 and 2016 with increase seen in every region. While this visualization does not answer the question of whether political deviciveness created the increase in gun violence the trend is clear and justifys further investigation. 
+
